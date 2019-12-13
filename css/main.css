@@ -222,6 +222,49 @@ nav a:hover {
 }
 
 
+/**Artisan Alley Profiles**/
+.profile-image {
+  display: inline-block;
+  width: 300px;
+  max-height: 400px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 0 6px 6px;
+  max-width: 20rem;
+}
+
+.card-body {
+  padding: .2rem 1rem;
+}
+
+.card-title {
+  margin: 0;
+  padding: .3rem 1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.card-label {
+  padding: .3rem 1rem .3rem calc(1rem - 4px);
+  border-left: 4px solid green;
+  background-color: rgba(255, 255, 255, .6);
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.card-head {
+  position: relative;
+}
+
+.artisan-info {
+  font-size: 1em;
+}
+
 @media only screen and (min-width: 25em) {
 
   html {
