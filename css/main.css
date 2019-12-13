@@ -147,10 +147,7 @@ img {
   flex-wrap: wrap;
   align-items: center;
   padding: 1.5rem 0;
-
   background-color: ##64113F;
-  border-top: 3px solid #005e76;
-
   color: #005e76;
 }
 
@@ -194,7 +191,7 @@ img {
 
 header {
   padding: .5rem 0;
-  background-color: #ccc;
+  background-color: #84E6F8;
   text-align: center;
 }
 
@@ -221,8 +218,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #333;
-  color: #fff;
+  color: #f7cacd;
 }
 
 
